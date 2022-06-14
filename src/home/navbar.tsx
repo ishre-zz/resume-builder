@@ -38,7 +38,7 @@ const NavBar: NextPage = () => {
     <Nav>
       <Link href="/">
         <a>
-          <Image src="/TCD_blue-transparent.png" alt="logo" height="50px" width="50px" />
+          <Image src="/TCD _watermark_transparent.png" alt="logo" height="50px" width="50px" />
         </a>
       </Link>
       <RightItemsContainer>
