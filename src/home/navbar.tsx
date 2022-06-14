@@ -42,11 +42,9 @@ const NavBar: NextPage = () => {
         </a>
       </Link>
       <RightItemsContainer>
-        <a className="nav-item show-web">Templates</a>
-        <a className="nav-item show-web">Recommendations</a>
-        <a className="nav-item show-web">About</a>
+      
         <a
-          href="https://github.com/sadanandpai/resume-builder"
+          href="https://github.com/ishre/resume-builder"
           className="icon"
           target="_new"
           title="Source code"
