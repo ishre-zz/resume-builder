@@ -63,7 +63,7 @@ const Hero: NextPage = () => {
       <div>
         <h3>Free & Open source</h3>
         <h1>
-          Single Page <br />
+          Fastest Single Page <br />
           Resume Builder
         </h1>
         <div className="cta-holder">
