@@ -1,146 +1,238 @@
 {
-  "basics": {
-    "name": "Jane Doe",
-    "label": "Frontend Developer",
-    "image": "https://www.linkpicture.com/q/generated_photos_5e68893b6d3b380006f22f8b.jpg",
-    "email": "janedoe@email.com",
-    "phone": "+91 9876543210",
-    "url": "www.github.com/sadanandpai/",
-    "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Benglauru",
-      "countryCode": "",
-      "region": ""
+    "basics": {
+        "name": "Shreyash Dubey",
+        "label": "Product Developer",
+        "image": "https://asoc.in/wp-content/uploads/2021/11/Untitled-design-4-300x300.png",
+        "email": "shreyash@engineer.com",
+        "phone": "+ 91 9619033713",
+        "url": "www.github.com/sadanandpai/",
+        "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Mumbai",
+            "countryCode": "",
+            "region": ""
+        },
+        "relExp": "2 Years",
+        "totalExp": "4 Years",
+        "objective": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help TheCyberDelta introduce time-saving schemes for all executives.",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "Shreyash Dubey",
+                "url": "https://www.linkedin.com/in/shreyash-dubey/"
+            },
+            {
+                "network": "github",
+                "username": "ishre",
+                "url": "https://github.com/ishre/"
+            },
+            {
+                "network": "hackerrank",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "leetcode",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "twitter",
+                "username": "ishreyash_dubey",
+                "url": "https://twitter.com/ishreyash_dubey"
+            },
+            {
+                "network": "wordpress",
+                "username": "kwik365",
+                "url": "https://thecyberdelta.com"
+            }
+        ]
     },
-    "relExp": "4 years",
-    "totalExp": "6 Years",
-    "objective": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives.",
-    "profiles": [
-      {
-        "network": "linkedin",
-        "username": "sadanandpai",
-        "url": "https://www.linkedin.com/in/sadanandpai/"
-      },
-      {
-        "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
-      },
-      {
-        "network": "hackerrank",
-        "username": "paicube",
-        "url": "https://www.hackerrank.com/paicube/"
-      },
-      {
-        "network": "leetcode",
-        "username": "paicube",
-        "url": "https://leetcode.com/paicube/"
-      }
-    ]
-  },
-
-  "skills": {
-    "languages": [
-      { "name": "JavaScript", "level": 5 },
-      { "name": "HTML5", "level": 5 },
-      { "name": "CSS", "level": 5 }
-    ],
-    "frameworks": [
-      { "name": "React", "level": 4 },
-      { "name": "Angular", "level": 4 }
-    ],
-    "technologies": [
-      { "name": "Algorithms", "level": 3 },
-      { "name": "Progressive Web Apps", "level": 3 },
-      { "name": "SQL", "level": 3 },
-      { "name": "Data Structures", "level": 3 }
-    ],
-    "libraries": [
-      { "name": "jQuery", "level": 3 },
-      { "name": "Redux", "level": 3 }
-    ],
-    "databases": [{ "name": "Firebase", "level": 3 }],
-    "practices": [
-      { "name": "Component based architecture", "level": 3 },
-      { "name": "Agile methodology", "level": 3 },
-      { "name": "Design Patterns", "level": 3 },
-      { "name": "Test Driven Development", "level": 3 },
-      { "name": "MVC", "level": 3 }
-    ],
-    "tools": [
-      { "name": "Git", "level": 3 },
-      { "name": "VS Code", "level": 3 },
-      { "name": "Jira", "level": 3 },
-      { "name": "Webpack", "level": 3 },
-      { "name": "Eclipse", "level": 3 },
-      { "name": "Bitbucket", "level": 3 }
-    ]
-  },
-
-  "work": [
-    {
-      "name": "Company 1",
-      "position": "Senior Software Developer",
-      "url": "",
-      "startDate": "Apr 2021",
-      "endDate": "present",
-      "years": "2.5 years",
-      "highlights": [],
-      "summary": "* Use my extensive experience with front end development to define the structure and components for the project, making sure they are reusable\n* Keep the code quality high reviewing code from other developers and suggesting improvements\n* Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality\n* E-commerce maintenance **with Fastcommerce**, a Brazilian e-commerce platform"
+    "skills": {
+        "languages": [
+            {
+                "name": "JavaScript",
+                "level": 4.5
+            },
+            {
+                "name": "HTML5",
+                "level": 5
+            },
+            {
+                "name": "CSS",
+                "level": 4
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "React",
+                "level": 4
+            },
+            {
+                "name": "PHP",
+                "level": 2.5
+            }
+        ],
+        "libraries": [],
+        "databases": [
+            {
+                "name": "MongoDB",
+                "level": 3
+            },
+            {
+                "name": "Redis",
+                "level": 1
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Progressive Web Apps",
+                "level": 3
+            },
+            {
+                "name": "SQL",
+                "level": 3
+            },
+            {
+                "name": "Data Structures",
+                "level": 3
+            },
+            {
+                "name": "Redux",
+                "level": 1
+            }
+        ],
+        "practices": [
+            {
+                "name": "Agile methodology",
+                "level": 3
+            },
+            {
+                "name": "MVC",
+                "level": 3
+            },
+            {
+                "name": "Component based architecture",
+                "level": 3
+            },
+            {
+                "name": "Test Driven Development",
+                "level": 3
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "level": 3
+            },
+            {
+                "name": "VS Code",
+                "level": 3
+            },
+            {
+                "name": "Jira",
+                "level": 3
+            },
+            {
+                "name": "Webpack",
+                "level": 3
+            },
+            {
+                "name": "Eclipse",
+                "level": 3
+            },
+            {
+                "name": "Bitbucket",
+                "level": 3
+            },
+            {
+                "name": "WPscan",
+                "level": 1
+            }
+        ]
     },
-    {
-      "name": "Company 2",
-      "position": "Software Developer",
-      "url": "",
-      "startDate": "Jun 2015",
-      "endDate": "Dec 2017",
-      "years": "2.5 years",
-      "highlights": [],
-      "summary": "* Develop web applications based on Sharepoint, Drupal 8 and Episerver\n* Lead a team of 10 front end developers, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions\n* Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team\n* Keep the code and the features implemented by the other developers in accordance to the requirements"
+    "work": [
+        {
+            "name": "IBM",
+            "role": "",
+            "from": "",
+            "to": "",
+            "years": "",
+            "description": "* Point 1\n* Point 2\n* Point 3",
+            "position": "Cloud Developer Trainee",
+            "startDate": "16 May 2022",
+            "endDate": "Present",
+            "summary": "* Practicing the better way to modulate server.\n* Ensuring connectivity between subdomains and services and no cross connection to be held.\n* Manage a team of 7 software developers to design a better product for cloud automation.\n* Create a script for server health check-up"
+        },
+        {
+            "name": "TheCyberDelta",
+            "position": "Software Solutions Consultant",
+            "url": "",
+            "startDate": "Jan 2022",
+            "endDate": "present",
+            "years": "6 months",
+            "highlights": [],
+            "summary": "* Develop software to accommodate team of authors, designers, programmers and various other members and and facilitate their project flow.\n* Create and maintain the Knowledgebase and Git repos.\n* Design and implement Firewall for the Various domains hosted internally for employees."
+        },
+        {
+            "name": "Aristotle School of Codes",
+            "position": "WordPress Developer",
+            "url": "",
+            "startDate": "Nov 2021",
+            "endDate": "",
+            "years": "7 months",
+            "highlights": [],
+            "summary": "* Develop web applications based on Sharepoint, Drupal 8 and Episerver, and use WooCommerce for payments and purchases.\n* Keep the code and the features implemented by the other developers in accordance to the requirements"
+        },
+        {
+            "name": "MongoDB Inc.",
+            "position": "Content Engineer (Intern)",
+            "url": "",
+            "startDate": "Feb 2021",
+            "endDate": "May 2021",
+            "years": "3 months",
+            "highlights": [],
+            "summary": "* Design easy user interfaces and great user experiences for the digital platforms of MongoDb Resources.\n* To Optimise the content friendly for all sizes of screens. And to fix glitches.\n* Use TypeScript to speed up old pages.\n* VPS configuration and optimization (Apache & Nginx)"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Vellore Institute of Technology",
+            "url": "https://vit.ac.in/",
+            "studyType": "BTech",
+            "area": "CSE - Cyber Security  and Digital Forensics",
+            "startDate": "June 2021",
+            "endDate": "June 2024",
+            "score": "9.2 GPA",
+            "courses": []
+        },
+        {
+            "institution": "SMT. CHM College",
+            "url": "https://www.chmcollege.in/",
+            "studyType": "High School",
+            "area": "PCM ELECTRICAL",
+            "startDate": "Aug 2019",
+            "endDate": "May 2021",
+            "score": "92%",
+            "courses": []
+        },
+        {
+            "institution": "St. Thomas High School",
+            "url": "https://stthomashighschool.org/",
+            "studyType": "Matric",
+            "area": "PCMB SS Language",
+            "startDate": "",
+            "endDate": "June 2019",
+            "score": "87.6%",
+            "courses": []
+        }
+    ],
+    "activities": {
+        "involvements": " * Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 5 percent increase in revenue.\n * Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability.\n * Helping TheCyberDelta provide solutions to their interns and employees.",
+        "achievements": "* React and redux - A complete guide 2020 from Udemy'\n * Agile and Scrum Master Certificate from Udacity\n * Guvi (IITM) certified Python Developer\n * FreeCodeCamp HTML CSS certified\n * Guinness World Records participation in AI for INDIA contest."
     },
-    {
-      "name": "Company 3",
-      "position": "Trainee Developer",
-      "url": "",
-      "startDate": "Aug 2011",
-      "endDate": "May 2015",
-      "years": "1 year",
-      "highlights": [],
-      "summary": "* Design easy user interfaces and great user experiences for the digital platforms of small companies\n* Wordpress development, including themes creation or customization, custom plugins development and training\n* E-commerce maintenance with Fastcommerce, a Brazilian e-commerce platform\n* E-commerce development with Magento, customizing preexisting themes \n* Integrate external services such as payment services, delivery, etc into Magento solutions\n* VPS configuration and optimization (Apache & Nginx)"
-    }
-  ],
-
-  "education": [
-    {
-      "institution": "MIT, University",
-      "url": "https://www.mit.edu/",
-      "studyType": "MS",
-      "area": "Cloud technology",
-      "startDate": "2014",
-      "endDate": "2016",
-      "score": "68%",
-      "courses": []
-    },
-    {
-      "institution": "NMAMIT, Nitte",
-      "url": "https://www.mit.edu/",
-      "studyType": "B.Tech (VTU)",
-      "area": "Computer Science",
-      "startDate": "2010",
-      "endDate": "2014",
-      "score": "8.3 CGPA",
-      "courses": []
-    }
-  ],
-
-  "activities": {
-    "involvements": "* Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.\n * Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.\n * Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability.\n * Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.",
-
-    "achievements": "* React and redux - A complete guide 2020 from Udemy'\n * Agile and Scrum Master Certificate from Udacity\n  * Best performer award for consistently exceeding the performance\n  * Certificate of exceptional bug finder by XYZ client\n  * Recognition zero defect delivery\n  * Best performer award for consistently exceeding the performance"
-  },
-
-  "volunteer": [],
-  "awards": []
+    "volunteer": [],
+    "awards": []
 }
