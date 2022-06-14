@@ -3,13 +3,13 @@
 
 ### Free and open source, fully customizable professional single page resume builder
 
-<a href="https://e-resume.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://resume.thecyberdelta.org/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://e-resume.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
+[![](https://img.shields.io/github/stars/ishre/resume-builder?style=for-the-badge)](#stars)
+[![](https://img.shields.io/github/forks/ishre/resume-builder?style=for-the-badge)](#forks)
 
-👉 &nbsp;&nbsp;[Single Page Resume Builder](https://e-resume.vercel.app/)&nbsp;&nbsp;👈
+
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ### For developers
 
-- `git clone https://github.com/sadanandpai/single-page-resume-builder.git`
+- `git clone https://github.com/ishre/resume-builder.git`
 - `yarn install`
 - `yarn dev`
 
@@ -45,4 +45,3 @@
 Feel free to use the source to create your resume.<br/>
 Basic knowledge of HTML5, CSS and React is sufficient if you to customize the resume for your requirements.
 
-![](https://visitor-badge.glitch.me/badge?page_id=single-page-resume-builder)
